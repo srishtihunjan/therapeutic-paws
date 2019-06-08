@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/therapeutic-paws/precache-manifest.f1db30db7d69e799a44d06da007fb85f.js"
+  "/therapeutic-paws/precache-manifest.5df60f1a052dc94519195ff664b5d2a4.js"
 );
 
 self.addEventListener('message', (event) => {
