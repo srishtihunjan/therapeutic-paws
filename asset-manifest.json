@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/therapeutic-paws/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/therapeutic-paws/static/js/main.8a354a95.chunk.js",
+    "main.js.map": "/therapeutic-paws/static/js/main.8a354a95.chunk.js.map",
+    "runtime~main.js": "/therapeutic-paws/static/js/runtime~main.5221d797.js",
+    "runtime~main.js.map": "/therapeutic-paws/static/js/runtime~main.5221d797.js.map",
+    "static/js/2.b41502e9.chunk.js": "/therapeutic-paws/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/therapeutic-paws/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/therapeutic-paws/index.html",
+    "precache-manifest.f1db30db7d69e799a44d06da007fb85f.js": "/therapeutic-paws/precache-manifest.f1db30db7d69e799a44d06da007fb85f.js",
+    "service-worker.js": "/therapeutic-paws/service-worker.js",
+    "static/css/main.ba49ec77.chunk.css.map": "/therapeutic-paws/static/css/main.ba49ec77.chunk.css.map",
+    "static/media/logo.png": "/therapeutic-paws/static/media/logo.0127b750.png"
+  }
+}
