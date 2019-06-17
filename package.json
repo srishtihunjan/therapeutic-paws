@@ -2,7 +2,7 @@
   "name": "t-paws",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://therapeuticpaws.in",
+  "homepage": "http://therapeutic-paws.github.io/therapeutic-paws",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
